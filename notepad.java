@@ -86,7 +86,7 @@ public class notepad extends JFrame {
     }
 
     public static void main(String[] args) {
-        Notepad n = new Notepad();
+        notepad n = new notepad();
         n.setVisible(true);
     }
 }
