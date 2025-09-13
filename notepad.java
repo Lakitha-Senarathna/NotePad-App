@@ -8,7 +8,7 @@ public class notepad extends JFrame {
     JTextArea area;     // text area for writing
     JFileChooser chooser; // file chooser for open/save
 
-    public Notepad() {
+    public notepad() {
         // basic window setup
         setTitle("My Notepad");
         setSize(500, 400);
